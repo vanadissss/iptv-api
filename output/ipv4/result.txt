@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2025-12-21 06:33:21,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+2025-12-21 18:36:03,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
 ,#genre#
 CCTV-1,http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
-CCTV-2,http://yp.qqqtv.top/1/api.php?id=CCTV-2%E8%B4%A2%E7%BB%8F&auth=666858
-CCTV-2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
-CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
+CCTV-3,http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 CCTV-4,http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://yp.qqqtv.top/1/api.php?id=CCTV-5%2BHD&auth=666858
@@ -15,20 +13,17 @@ CCTV-7,http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140
-CCTV-9,http://222.169.85.8:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10,http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140
 CCTV-15,http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
-CCTV-16,http://dms.yryyj.site:8188/udp/239.76.246.98:1234
 CCTV-17,http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
-CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360
 CETV-1,http://112.254.55.106:22222/rtp/239.253.254.110:8000
 CETV-2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140
 CETV-2,http://111.199.0.19:4022/rtp/239.3.1.54:4120
+CETV-2,http://ygbh.site/php/bfgd.php?id=492
 CETV-2,http://144.255.32.94:8288/rtp/239.21.2.8:5002
 CETV-2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV-2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
@@ -37,11 +32,11 @@ CETV-2,rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 CETV-4,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV-4,http://111.199.0.19:4022/rtp/239.3.1.56:4120
 CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
-CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
+CETV-4,http://111.199.0.19:4022/rtp/239.3.1.56:4120
 CETV-4,rtsp://116.176.26.18/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://180.95.143.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
 CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000000270887_0.smil
@@ -50,12 +45,12 @@ CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+湖南卫视,http://116.237.37.244:8888/rtp/233.18.204.227:5140
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.2.34:11358
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.27:9802
-湖南卫视,http://116.237.37.244:8888/rtp/233.18.204.227:5140
 湖南卫视,http://171.83.103.119:9999/rtp/239.69.1.13:9718
-湖南卫视,http://171.125.90.120:6001/rtp/226.0.1.246:2125
 湖南卫视,http://zqh2333.top:2222/rtp/239.94.0.116:5140
+湖南卫视,http://171.125.90.120:6001/rtp/226.0.1.246:2125
 北京卫视,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://116.237.37.244:8888/rtp/233.18.204.209:5140
@@ -76,8 +71,8 @@ CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000
 海南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江苏卫视,http://183.220.107.138:4022/rtp/239.11.0.76:5140
@@ -88,14 +83,12 @@ CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
-山东卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&auth=666858
 山西卫视,http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 四川卫视,http://171.83.103.119:9999/rtp/239.69.2.39:11388
 四川卫视,http://zqh2333.top:2222/rtp/239.94.0.115:5140
-深圳卫视,http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
@@ -113,7 +106,6 @@ CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000
 云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
 山西经济与科技,http://171.125.90.120:6001/rtp/226.0.2.236:9800
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
-央视台球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
 风云音乐,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
 风云音乐,http://171.83.103.119:9999/rtp/239.69.1.90:10180
 风云音乐,http://171.125.90.120:6001/rtp/226.0.2.220:9672
@@ -127,8 +119,8 @@ CETV-4,rtsp://115.85.232.19/PLTV/88888910/224/3221225594/10000100000000060000000
 风云足球,http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 世界地理,http://ygbh.site/php/bfgd.php?id=177
-世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.247.80/PLTV/88888888/224/3221226965/86128966.smil
 世界地理,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226965/86128966.smil
@@ -142,6 +134,16 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-游戏竞技,http://ygbh.site/php/bfgd.php?id=142
+动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
+动漫秀场,http://dassby.qqff.top:99/live/动漫秀场/index.m3u8
+动漫秀场,rtsp://115.153.245.70/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.254.81/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.212.72/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.247.80/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.230.145/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221225613/iptv7997.smil
+动漫秀场,rtsp://115.153.233.154/PLTV/88888888/224/3221225613/iptv7997.smil
 游戏竞技,http://ygbh.site/php/bfgd.php?id=296
+游戏竞技,http://ygbh.site/php/bfgd.php?id=142
 海看电竞,http://144.255.32.94:8288/rtp/239.21.1.135:5002
