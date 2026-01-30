@@ -1,54 +1,86 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/vanadissss/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-30 06:42:45
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-30 18:48:58
 https://www.freetv.top/migu/624878271.m3u8?migutoken=51e795d34fc334fbfef3a00a9e095b441f8925223bf27482f2ced0a43e8533d469a5ced1cafaef5b17edf9089617ff31ded949f9e74e8844747cb04332f3d81a317734e4e8f189538db2f108a7
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3
 https://www.freetv.top/migu/624878271.m3u8?migutoken=51e795d34fc334fbfef3a00a9e095b441f8925223bf27482f2ced0a43e8533d469a5ced1cafaef5b17edf9089617ff31ded949f9e74e8844747cb04332f3d81a317734e4e8f189538db2f108a7
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png",CCTV-3
 http://www.freetv.top/migu/624878271.m3u8?migutoken=21306af96cf9259457600792df858b0d339bc7203aeb7e1a6ee6ec6ec3832a2736936029fe2583dcf971676870fdf0afbdee5be786e50af2ac6a8825673cc860d7988f44d0c5c4bc1931259698
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
-https://iptv.catvod.com/live.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
-https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png",CCTV-4
+https://www.freetv.top/migu/608807416.m3u8?migutoken=cfc1141967eb2f06f62caa8f87ecd004f5096e3d9013d45f3fbc7597bc6f8a5b22a7b29ff3e195b179467f54bb94620de38658b7c53f55144109671005f6b03a062dd1fc884e2169dbcb902874
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10
+https://www.freetv.top/migu/624878405.m3u8?migutoken=cdd677bf376d3c88ad570a045459ef0e4297b0711bb8efa426e16b4c0d069c853fdc539b08e8af8014b7362ec2443685fa9b75e5e55c425a2700ddd298bb7a0a104c8e034135b4f2456d0c26ca
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10
+https://www.freetv.top/migu/624878405.m3u8?migutoken=5783d6764a44078f77c189aa651d24d01f75d2491bf506a64e6beb4a124aa6939c36d394986e5113c18af52d6caa965b757edb8436760bd448a102e94fdfe0e89f12cbfcd443a8bbfff3b85a4a
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10
+https://www.freetv.top/migu/624878405.m3u8?migutoken=07b6e1d4124dd85ca8138b8d8dcd646323952053748d7d5ac0a2b31dcb6626c605fb05470545bd0f7e0d23e807e6909b517b2b8b5e2eaa926600edaa15d80aee9b900245924108c86040411cd4
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png",CCTV-10
+https://www.freetv.top/migu/624878405.m3u8?migutoken=c9f89ca38aecd9efd7438d02f07aae1d622407222b2143b84ac81a0b8046d4edf31dff9b382a346f7ec0e11cfbe4780dc7b671024edc7d941d9f8e52bc23439b00a4cd935c472de660659d90ae
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV11
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV-11
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
+https://iptv.catvod.com/live.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
 https://iptv.catvod.com/live.php?id=CCTV11%E6%88%8F%E6%9B%B2
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
-https://www.freetv.top/migu/667987558.m3u8?migutoken=b64f3a361e8074b39bbbad35bdf17e43f722bcfa61647fe1ac137ea76cd90f034c1ab08fffb962f33c8dbe34b78847898aa262bf4eb0da6bbe3ef3975c49ee67fa1049054ac575c70a5fe5836e
+https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
-https://www.freetv.top/migu/667987558.m3u8?migutoken=16827d54043eba69d051685229b1d0623c01f398f643b3a7d912c9929d6525025ef57eb61666d45bb70dfc86405aa336ca762f0bda4f0284d98eddae4042805df42661f954a1d40820829ec8c2
+https://www.freetv.top/migu/667987558.m3u8?migutoken=0960d7e074be53abeacd988e7daaca6d1477b1f255f98a01c33c7adf74ac246fe65a23451c3cff9b1203a6285cec778b6d488bd805e9d2433abe3ca23eb24e4f2a5f36bba821773558e1dec231
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
-https://www.freetv.top/migu/667987558.m3u8?migutoken=0889c33c8749b813b28c533d0ceb5e64bdf62396a1f0d2d849b8980a53dc7a8553dda3a862c070fb58ada9d23f299446643d38d44ab5b1506b0ff3a5033bd766ae621fd4e8c886ae46a9905d73
+https://www.freetv.top/migu/667987558.m3u8?migutoken=6f0aba8bb528e29d40340f6930899fd9d7af9fd013c355a61146d5528e6ac297c46d65935ffcea640455737c324736dd8a29f22083f5450155873c9e89d3a4fb8b6b92b897a7dc62ad55fd891d
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png",CCTV-11
+https://www.freetv.top/migu/667987558.m3u8?migutoken=4c903e5316196f2e3d586dc059cbb28c4bee023a690e5e366a6178f6c339df906f37cc0cf3efc277fd847991bc5c69f5d53eb0a19222cf25d5a646a7ae998a25cefc549cdf0f8c5a1c2d38fe88
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12
+https://www.freetv.top/migu/673168185.m3u8?migutoken=5423237e9d331ddbd254f9b34f235d2d3a581587f12081d6f4dc2e5fd33889675377b585750675d9d08c0a7620fee257f9f2994877ebd92907417411e935c2e49fbcbe53ead412cd81dfa7dfba
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12
+https://www.freetv.top/migu/673168185.m3u8?migutoken=ff6a5a89e6ad0f73cd78424df3be0abe3743e8bbd37698f2dcee8ece0d6ffbe0c1205c704c08924958889799dcc66d9333f4273e5dc9ead670713fd2b2292e201873fb66020ec85899c7bd2a05
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12
+https://www.freetv.top/migu/673168185.m3u8?migutoken=876a940958defb8a6514e54b9a992f0208f7db15754439ec4131d690bb68982f44bdfa6edbdbbdaf91035ca931a5577a8de3f1af81b18ee26104662899818f2703ab8bf49c63365ef4c1abb782
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12
+https://www.freetv.top/migu/673168185.m3u8?migutoken=2c8ff357aa2421f58bdbe7599a401e91b4e82c915fb4cdc01b7b5958d324557b8fe0b9dfc2848124c14b3c90fbeeaaec9a973e08efe51011771d0fbfcdfb36bbb23ba40211547f349c501b6997
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png",CCTV-12
+https://www.freetv.top/migu/673168185.m3u8?migutoken=ca060ebeb7798a2bd7e8b8cb4143386b12a2629519220accd5fd0a77a147ab06630fd8cf65f82517ba9db18cc4b5c5edf350c0734fdddbc216781b9944d8e7eaf326bac636110e27fcd980f4e2
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 https://cdn3.163189.xyz/163189/cctv13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
+https://www.freetv.top/migu/608807423.m3u8?migutoken=2ea304b199bfe39629418c1d50b3c9f34ba06712c9c7922a614411768b18496280cdfdee913572bdb8d1cdd3d5763460f2f0aea6c7a51095aaf66f1eb8f43ce6edbbeac22c35e78ecc39dbdf27
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
+https://www.freetv.top/migu/608807423.m3u8?migutoken=b3b4ddc2f6494b8b098f8722480f65f33fabde80e2873f9c7ad3a37c1d0e0053da396027d844896109a0c960d9c8be0b4932204b5648e71ef398f07c48501fade68f689c2175b139ba190f4ab4
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png",CCTV-13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png",CCTV-14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15
+https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027ec08213b2a5beffae7f99e3e556123f72b08c8d0bedb77620cbbc5d72108ff458b15f605abc992ccdc991b35dd34802a57ca114b8f7875c9bce1ddfe5bd6775f12be875a
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15
 https://www.freetv.top/migu/673168223.m3u8?migutoken=b3f5f563a0e87a8d4215ce2f21de8c4ba355f6b7cecac5f686433bc2809f1a670c2454c39a4c60e3d446e610daf4c9bb26feea0ee07ed55a05d6b332b10381aa4ffb12bb3db425336f25a43987
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png",CCTV-15
-https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
-https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
-https://www.freetv.top/migu/673168256.m3u8?migutoken=7270a64d821d9de391cdabdf9685e61de5c0929c8486a24ac167aea6279189e5577fd24dce303030fbf1bec432df053fc57698fb48b6285a78bab608e954345314604511e497b104c51f5dc0cd
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
 https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c0ed1adbfabbe258e37787a9dbf6c13ddfa3dfc5be6fc055e4ec23f97b75ae545c0a460100ac52ba7ebcfbc7dc5b37f2c7cd2138c72751b2aa7e843867bd1e89f39c0060
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
 https://www.freetv.top/migu/673168256.m3u8?migutoken=11fec7586772852c5b34d75ff515080f8def9861a030c98c5861b036729d642445a7bc5b0cd43e7086ca1903346f6cbad01b639771ee3bd13e653bdb2d14f169744862c9695688b0b177bc144a
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
+https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png",CCTV-17
+https://www.freetv.top/migu/673168256.m3u8?migutoken=7270a64d821d9de391cdabdf9685e61de5c0929c8486a24ac167aea6279189e5577fd24dce303030fbf1bec432df053fc57698fb48b6285a78bab608e954345314604511e497b104c51f5dc0cd
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png",CETV-2
 https://iptv.catvod.com/live.php?id=CETV2
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png",CETV-2
 https://iptv.catvod.com/live.php?id=CETV-2
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
-https://iptv.catvod.com/live.php?id=CETV-4
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
 https://iptv.catvod.com/live.php?id=CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png",CETV-4
+https://iptv.catvod.com/live.php?id=CETV-4
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
+https://www.freetv.top/migu/651632648.m3u8?migutoken=95759756a54e94e55327bb13b854f38b8804506300bc7b2dc6d7896518d1cb705d68a47d6e445836946d997e2a858592d4082bf57643ec7ac74aa8bdd99fb70b8ab534cb9b55a950291eb07c63
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
+https://www.freetv.top/migu/651632648.m3u8?migutoken=c9a7a392335b6f990a4b233b6066770e1330aa6b6fed2a47f3985567ef8988af1b02bf0adfcc1243deb1fb6fb57ade7c90aa1550041f7c3dfe329e36daf55d57c902f86accec6e30f8ee9b773f
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
+https://www.freetv.top/migu/651632648.m3u8?migutoken=6c3ad966ab21a09d75cd7c650e98f47332acc033ff8b9ec4fd233dd140f355862447ef3a9137c0feed4b463f51efc8dd4d06420ea479ee57eec3b86d362afb0868f196cec548111db9f13e71ff
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png",东方卫视
+https://www.freetv.top/migu/651632648.m3u8?migutoken=1b29e441e8d640f9f4d3b7f1798bd6cd0036bcfcab7fb7353718a02767b7d7a91bd78405a1b2ae2b5a477e2b6964c8e1c10e40b15cf06fc2a353f8968e69c78ea27ea0e65ab6eaf17ed9e0b8bc
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png",东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png",广西卫视
@@ -65,5 +97,3 @@ https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
 https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png",CHC动作电影
 https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png",游戏风云
-https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
