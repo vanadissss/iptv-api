@@ -1,18 +1,16 @@
 🕘️更新时间,#genre#
-2026-04-13 06:49:08,https://cdn3.163189.xyz/163189/cctv13
+2026-04-13 19:27:26,https://cdn3.163189.xyz/163189/cctv13
 
 ,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776158091&major_anchor_level=common&sign=b6ff08dbb56dc9d66ae8fbe7a039d11e&t_id=037-202604071714506C37CC7AC813301C7CED-7CmlV9
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CETV-1,https://iptv.catvod.com/live.php?id=CETV-1
 CETV-1,https://iptv.catvod.com/live.php?id=CETV1
 CETV-2,https://iptv.catvod.com/live.php?id=CETV-2
 CETV-4,https://iptv.catvod.com/live.php?id=CETV-4
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
+广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
