@@ -1,31 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-24 20:09:17,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+2026-07-25 07:29:46,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 ,#genre#
-CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
-CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=380a18fe8dc81109270780918e605114ca218bcfa395aaa8682b605d1622439ffe7981dbd10f378c9c045f872d48dce39babcb012c7362dc8b21835e88fde6457bacaa4082c74879d64ad7aee4
-CCTV-3,https://live.chinacert.cftest5.cn/cnmg/live/624878271
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807416
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/608807419
-CCTV-4,https://live.chinacert.cftest5.cn/cnmg/live/631780421
-CCTV-7,https://live.chinacert.cftest5.cn/cnmg/live/673168121
-CCTV-8,https://live.chinacert.cftest5.cn/cnmg/live/624878356
-CCTV-9,https://live.chinacert.cftest5.cn/cnmg/live/673168140
-CCTV-11,https://live.chinacert.cftest5.cn/cnmg/live/667987558
-CCTV-12,https://live.chinacert.cftest5.cn/cnmg/live/673168185
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,https://live.chinacert.cftest5.cn/cnmg/live/608807423
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,https://live.chinacert.cftest5.cn/cnmg/live/624878440
-CCTV-15,https://live.chinacert.cftest5.cn/cnmg/live/673168223
-CCTV-17,https://live.chinacert.cftest5.cn/cnmg/live/673168256
 湖南卫视,https://live.chinacert.cftest5.cn/zgst/live/hunan4k
-东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=6c3ad966ab21a09d75cd7c650e98f47332acc033ff8b9ec4fd233dd140f355862447ef3a9137c0feed4b463f51efc8dd4d06420ea479ee57eec3b86d362afb0868f196cec548111db9f13e71ff
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=a05a40d6e6ed59e05b38b4ebfaa76f08e8b1477802d7e984802aa4997af44caac8ccf440496662d885f70a6d35fa54f4aa876e2a834e7f5026b626fb250dcc5d14ae02fa6247c3e070d256ea39
-江苏卫视,https://www.freetv.top/migu/623899368.m3u8?migutoken=3ec7add32f2108ed670e526f58207033f492fc81ffe6044df4e04bf88bca3cfbe3f1af7bd4fa10e5a6663f276475985da275dfa9a568feed08fbc90f40838156a2167089cb6b35aaaf231e8ae8
-CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
-游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
