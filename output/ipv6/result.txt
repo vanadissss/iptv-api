@@ -1,13 +1,14 @@
 🕘️更新时间,#genre#
-2026-08-16 06:51:46,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-16 18:58:57,https://live.chinacert.cftest5.cn/cnmg/live/631780532
 
 ,#genre#
+CCTV-2,https://live.chinacert.cftest5.cn/cnmg/live/631780532
+CCTV-2,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211
 CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
