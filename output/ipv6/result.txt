@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-25 19:02:38,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-26 06:58:56,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 ,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
