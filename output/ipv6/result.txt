@@ -1,10 +1,7 @@
 🕘️更新时间,#genre#
-2026-09-06 08:11:05,https://live.chinacert.cftest5.cn/cnmg/live/641886683
+2026-09-06 21:37:22,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 ,#genre#
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886683
-CCTV-5,https://live.chinacert.cftest5.cn/cnmg/live/641886773
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
