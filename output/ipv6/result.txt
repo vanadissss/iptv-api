@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-12 09:13:52,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-13 04:13:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 ,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -12,3 +12,5 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 吉林卫视,http://k.061899.xyz/k.php?id=jlws
 青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
